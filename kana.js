@@ -1,5 +1,5 @@
 function conversion(sentence) {
-    fetch('',{
+    fetch('https://jlp.yahooapis.jp/JIMService/V2/conversion',{
         "id":"dj00aiZpPWREMHU5RzZGZlVrdyZzPWNvbnN1bWVyc2VjcmV0Jng9YWE-",
         "jsonrpc":"2.0",
         "method":"jlp.jimservice.conversion",
