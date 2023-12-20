@@ -1,7 +1,6 @@
 function conversion(sentence) {
     fetch('',{
-        "acces_token": "pq06hp8ghaiiajp8",
-        "id":5959,
+        "id":"dj00aiZpPVdRNnpEWlpRVlhWayZzPWNvbnN1bWVyc2VjcmV0Jng9MmQ-",
         "jsonrpc":"2.0",
         "method":"jlp.jimservice.conversion",
         "params":{
